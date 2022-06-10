@@ -26,7 +26,7 @@ fun main(){
         4 -> println("Divisao: ${numero1/numero2}")
         else -> {
             println("Valor Inválido")
-            println("Escolha entre 1 e 5")
+            println("Escolha entre 1 e 4")
         }
     }
 }
